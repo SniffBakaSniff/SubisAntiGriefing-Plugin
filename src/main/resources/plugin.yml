@@ -1,0 +1,9 @@
+name: SubisAntiGriefing
+version: '${project.version}'
+main: xyz.subaka.subisantigriefing.SubisAntiGriefing
+api-version: '1.20'
+commands:
+  SubisAntiGriefing:
+    description: Reloads the plugin configuration
+    usage: /SubisAntiGriefing [Command]
+    permission: SubisAntiGriefing.reload

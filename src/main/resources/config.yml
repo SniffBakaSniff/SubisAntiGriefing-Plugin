@@ -1,0 +1,64 @@
+Creeper:
+  cancelCreeperGrief: false
+  cancelCreeperExplode: false
+  cancelCreeperDamage: false
+  cancelCreeperDamageItem: false
+
+EnderCrystal:
+  cancelEnderCrystalGrief: false
+  cancelEnderCrystalExplode: false
+  cancelEnderCrystalDamage: false
+  cancelEnderCrystalDamageItem: false
+
+TnT:
+  cancelTnTGrief: false
+  cancelTnTExplode: false
+  cancelTnTDamage: false
+  cancelTnTDamageItem: false
+
+TnTMinecart:
+  cancelTnTMinecartGrief: false
+  cancelTnTMinecartExplode: false
+  cancelTnTMinecartDamage: false
+  cancelTnTMinecartDamageItem: false
+
+Beds:
+  cancelNetherExplosionGrief: false
+  cancelNetherExplosion: false
+  cancelNetherExplosionDamage: false
+  cancelNetherExplosionDamageItems: false
+
+RespawnAnchor:
+  cancelRespawnAnchorExplosionGrief: false
+  cancelRespawnAnchorExplosion: false
+  cancelRespawnAnchorExplosionDamage: false
+  cancelRespawnAnchorExplosionDamageItems: false
+
+Enderman:
+  cancelEndermanGrief: false
+
+Ghast:
+  cancelGhastFireballGrief: false
+  cancelGhastFireball: false
+  cancelGhastFireballDamage: false
+  cancelGhastFireballDamageItem: false
+
+Ravager:
+  cancelRavagerGrief: false
+
+
+
+#These Are the Only Options ATM (Possibly More to come in the future)
+preventDoorBreak: false
+doorBreakingMobs:
+#  - ZOMBIE
+#  - ZOMBIE_VILLAGER
+#  - DROWNED
+#  - HUSK
+
+
+MISC:
+  cancelCropTrampling: false
+  cancelEntityTurtleEggSquishing: false
+  cancelPlayerTurtleEggSquishing: false
+
