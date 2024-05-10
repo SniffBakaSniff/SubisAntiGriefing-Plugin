@@ -5,4 +5,4 @@
 
 # Known Bugs
 
-* Respawn acnhors become unbreakable if cancelRespawnAnchorExplosion is set to true
+* Respawn anchor become unbreakable if cancelRespawnAnchorExplosion is set to true
